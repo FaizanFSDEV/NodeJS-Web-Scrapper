@@ -1,0 +1,11 @@
+{
+  "name"         : "^WebScrapper",
+  "version"      : "0.0.1",
+  "description"  : "Scrapping a Web",
+  "author"       : "Faizan Anwar",
+  "dependencies" : {
+    "request"    : "^2.53.0",
+    "cheerio"    : "^0.18.0"
+  }
+
+}
